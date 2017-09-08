@@ -1,7 +1,3 @@
-<h1>Stock Prediction for Alphabet using LSTM</h1>
+<h1>Random Neural Networks Code</h1>
 
-Training stock prices for Alphabet Inc. using Yahoo Finance! data and 5 signals.
-
-Implemented a LSTM model using Tensorflow and Keras.
-
-Failed miserably...
+Repo to store some of the small random projects done for deep learning.
